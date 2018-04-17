@@ -1,0 +1,9 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\bin\Release\ShakeWindow.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\bin\Release\ShakeWindow.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\bin\Release\ShakeWindow.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\obj\Release\ShakeWindow.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\obj\Release\ShakeWindow.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\obj\Release\ShakeWindow.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\obj\Release\ShakeWindow.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ShakeWindow\ShakeWindow\obj\Release\ShakeWindow.pdb
